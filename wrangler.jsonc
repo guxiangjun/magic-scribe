@@ -2,7 +2,6 @@
     "name": "magic-speech-write", // 你的项目名称
     "compatibility_date": "2026-01-14",
     "assets": {
-      "directory": "./dist",     // 指向 Vite 打包后的输出目录
-      "binding": "ASSETS"
-    }
+      "directory": "./dist"     // 指向 Vite 打包后的输出目录    }
   }
+}
